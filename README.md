@@ -10,6 +10,3 @@ To create an interactive to-do list using DOM methods.
 
 ## Technologies
 HTML, CSS, JavaScript
-
-## How to Run
-Open `index.html` in a web browser.
